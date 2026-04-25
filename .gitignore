@@ -1,4 +1,5 @@
-
+*.pt
 .env
-.venv\*
-images\*
+.venv\
+images\
+*.log
